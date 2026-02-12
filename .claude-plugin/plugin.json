@@ -1,0 +1,7 @@
+{
+  "name": "chrome-test-runner",
+  "version": "0.2.0",
+  "description": "QA testing agent for Claude Code + Chrome. Executes test scenarios in your real Chrome browser and produces unified diagnostic logs combining agent reasoning, browser actions, and full telemetry. Requires Claude in Chrome extension (claude --chrome).",
+  "author": "you",
+  "homepage": "https://github.com/you/chrome-test-runner-plugin"
+}
