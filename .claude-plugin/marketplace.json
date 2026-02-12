@@ -1,0 +1,18 @@
+{
+  "$schema": "https://cdn.claude.ai/plugins/marketplace-schema.json",
+  "name": "chrome-test-runner-marketplace",
+  "version": "1.0.0",
+  "description": "QA testing tools for Claude Code + Chrome",
+  "owner": {
+    "name": "your-name",
+    "email": "you@example.com"
+  },
+  "plugins": [
+    {
+      "name": "chrome-test-runner",
+      "description": "QA testing agent that drives Chrome, executes test scenarios, and produces unified diagnostic logs combining agent reasoning, browser actions, and full telemetry. Requires Claude in Chrome extension.",
+      "version": "0.2.0",
+      "path": "."
+    }
+  ]
+}
